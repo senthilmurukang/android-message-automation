@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Android Message Automation</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_home">Home</string>
+    <string name="home_fragment_label">Home</string>
+    <string name="check_permissions">Check Permissions</string>
+</resources>
